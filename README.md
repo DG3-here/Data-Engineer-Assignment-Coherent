@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-In the B2B market research space, businesses constantly need insights about their competitors — especially around pricing, product availability, and positioning. Manually tracking competitor websites is time-consuming, inconsistent, and prone to human error.
+In the B2B market research space, businesses constantly need insights about their competitors - especially around pricing, product availability, and positioning. Manually tracking competitor websites is time-consuming, inconsistent, and prone to human error.
 
 This project automates that process by collecting, cleaning, and presenting competitor data in a structured and usable format.
 
